@@ -1,0 +1,23 @@
+name: Jason Jajalla Photography
+favicon: null
+layout_spectrum: 0.04552609357051551
+typography_spectrum: 0.8530324888415635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5616265595890582
+  lightness: 0.05888470774516463
+  saturation: 0.4408063106238842
+  rhythmicContrast: 0.1510763189289719
+purpose: []
